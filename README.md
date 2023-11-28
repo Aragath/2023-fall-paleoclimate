@@ -20,7 +20,7 @@ To edit the pages, navigate to the `content` folder and edit the corresponding `
 
 | Page     | File                                                                       |
 | -------- | -------------------------------------------------------------------------- |
-| Home     | [content/\_index.md](content/_index.md)                                    |
+| Home     | [content/\_index.md](content/index.md)                                    |
 | Problem  | [content/problem-statement/\_index.md](content/problem-statement/index.md) |
 | Data     | [content/data/\_index.md](content/data/index.md)                           |
 | Approach | [content/approach/\_index.md](content/approach/index.md)                   |
